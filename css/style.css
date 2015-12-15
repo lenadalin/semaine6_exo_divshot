@@ -1,7 +1,7 @@
 /* General */
 
 html, body {
-    background-color: #3f4042;
+    background-color: #006600;
     height: 100%;
     overflow-x: hidden;
 }
@@ -15,11 +15,12 @@ header {
 }
 
 .title {
-    padding: 20px;
+    padding: 40px;
+    background-color:#D80000 ;
 }
 
 .img-header {
-    width: 30px;
+    width: 88px;
     float:left;
 }
 
