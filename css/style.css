@@ -109,12 +109,16 @@ p {
 }
 
 .link:hover p {
-    color: #3f4042;
+    color: #ffffff;
 }
 
-.link:hover p.grey {
-    color: #FFF;
+
+
+.link:hover p.white {
+    color: #FFFFFF;
 }
+
+.link pink-dark {color:000000;}
 
 .row {
     margin-right: 0;
